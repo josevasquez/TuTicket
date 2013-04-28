@@ -1,0 +1,72 @@
+
+.event{
+	background-color:white;
+	margin:10px;
+	padding:5px;
+	font-size:13px;
+}
+
+.cuadro{
+	border:solid silver 1px;
+	margin-bottom:10px;
+}
+
+.evento_img{
+	height:300px;
+	background-color:black;
+	margin:20px;
+}
+
+#evento_01_img{
+	background-image:url('vivoporelrock.jpg');
+}
+
+#evento_fotos{
+	float:left;
+	width:300px;
+	height:200px;
+}
+
+.evento_foto{
+	width:80px;
+	height:80px;
+	margin:5px;
+	background-color:black;
+	float:left;
+}
+
+#evento_foto_01{
+	background-image:url'vivoporelrock.jpg';
+}
+
+#evento_desc{
+	float:right;
+	width: 450px;
+	height:200px;
+	padding-right:10px;
+}
+#evento_desc strong{
+	display:block;
+	font-family:centaury gothic;
+	margin:12px 0px 10px 0px;
+	font-size:17px;
+}
+#evento_links{
+	margin:10px;
+	font-style:italic;
+}
+
+#evento_links a{
+	padding-left:30px;
+}
+
+#evento_links a:hover{
+	color:#E18A07;
+}
+
+#recien_anadido{
+	display:none;
+}
+
+
+

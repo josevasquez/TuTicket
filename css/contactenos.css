@@ -1,0 +1,26 @@
+#contacto
+{
+	position:relative;
+	width:400px;
+	height:430px;
+	border:1px solid black;
+	margin-top:0px;
+	margin-left:0px;
+	padding:20px;
+}
+#contacto table 
+{
+	position:absolute;
+	margin-top:0px;
+	padding:5px;
+}
+#contacto table 
+{
+	font-size:19px;
+	border-spacing:20px;
+}
+#contacto h1
+{
+	margin-top:0px;
+	font-size:26px;
+}

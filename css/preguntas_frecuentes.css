@@ -1,0 +1,24 @@
+h2{
+	font-family:arial;
+	font-size:16px;
+	font-weight:normal;
+	background-color:#EBEBEB;
+	color:#3F3F3F; 
+	padding:10px;
+	border:solid silver 1px;
+}
+
+
+li
+{
+	color:#E18A07;
+}
+
+ol li{
+	padding:5px 0 5px 0;
+}
+
+#container_preguntas ol li a:hover{
+	color:#E18A07;
+	text-decoration:underline;
+}
