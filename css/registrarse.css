@@ -1,0 +1,23 @@
+#form_registrar
+{
+	position:absolute;
+	border:1px solid black;
+	width:400px;
+	height:480px;
+	padding:10px;
+	margin-top:0px;
+	margin-left:0px;
+}
+#form_registrar h1
+{
+	font-size:25px;
+	margin-top:0px;
+}
+#form_registrar table
+{
+	position:absolute;
+	border:1px solid black;
+	width:400px;
+	height:430px;
+	padding:10px;
+}
